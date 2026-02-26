@@ -181,44 +181,7 @@ python run.py
 Open browser:
 
 http://127.0.0.1:5000
-🗃 Database Schema Overview
-Student Table
 
-id
-
-name
-
-email
-
-password
-
-category
-
-income
-
-percentage
-
-state
-
-course_level
-
-Scholarship Table
-
-id
-
-name
-
-provider
-
-category
-
-income_limit
-
-min_percentage
-
-state
-
-deadline
 
 📊 Future Enhancements
 
